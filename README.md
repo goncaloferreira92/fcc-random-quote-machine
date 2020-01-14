@@ -1,5 +1,5 @@
-# fcc-random-quote-machine
-Random Quote Machine from Freecodecamp
+# FCC Random Quote Machine
+*Random Quote Machine from Freecodecamp* 
 
 The code can be found at: https://tinyurl.com/r7suxg2
 
